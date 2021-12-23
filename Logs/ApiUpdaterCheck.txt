@@ -1,0 +1,60 @@
+[api-updater (non-obsolete-error-filter)] 22/12/2021 1:12:22 a. m. : Starting C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 202.6396ms
+moved types parse time: 120ms
+candidates parse time : 2ms
+C# parse time         : 483ms
+candidates check time : 112ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 22/12/2021 1:12:52 a. m. : Starting C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 70.003ms
+moved types parse time: 108ms
+candidates parse time : 2ms
+C# parse time         : 439ms
+candidates check time : 120ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 22/12/2021 1:36:34 p. m. : Starting C:/Users/Lord Magnate/Desktop/Entretenimiento/2020.3.18f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 4969.6584ms
+moved types parse time: 533ms
+candidates parse time : 3ms
+C# parse time         : 1903ms
+candidates check time : 276ms
+console write time    : 15ms
+
+[api-updater (non-obsolete-error-filter)] 22/12/2021 6:40:15 p. m. : Starting C:/Users/Lord Magnate/Desktop/Entretenimiento/2020.3.18f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2899.4894ms
+moved types parse time: 366ms
+candidates parse time : 132ms
+C# parse time         : 1779ms
+candidates check time : 92ms
+console write time    : 16ms
+
+[api-updater (non-obsolete-error-filter)] 22/12/2021 6:40:39 p. m. : Starting C:/Users/Lord Magnate/Desktop/Entretenimiento/2020.3.18f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 136.0068ms
+moved types parse time: 264ms
+candidates parse time : 62ms
+C# parse time         : 464ms
+candidates check time : 56ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 22/12/2021 7:08:44 p. m. : Starting C:/Users/Lord Magnate/Desktop/Entretenimiento/2020.3.18f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 882.6995ms
+moved types parse time: 243ms
+candidates parse time : 25ms
+C# parse time         : 412ms
+candidates check time : 66ms
+console write time    : 1ms
+
